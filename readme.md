@@ -1,0 +1,1 @@
+Este é um arquivo usado na aul ada Rafaela Balerinr ensinando a usar o Git e GitHub.
